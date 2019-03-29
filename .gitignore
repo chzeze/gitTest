@@ -1,0 +1,10 @@
+.idea/
+*.iml
+.svn/
+target/
+logs/
+gen.*/
+.czrc
+.pom_tmp.xml
+project/beta/**
+!project/beta/info
